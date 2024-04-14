@@ -1,5 +1,6 @@
 # Hernan Rubinstein Git - Python BootCamp
-## My spirit animal - the majestic Kudu
+## I'm a PhD student in the Stelzer lab - focusin' on cell fate determination guided by dynamic signaling
+### My spirit animal - the majestic Kudu
 ![](https://i.pinimg.com/736x/f4/70/09/f47009ec278b24707922f57446f38a04.jpg)
 
 [WebSite link](hernanRubinstein.github.io)
