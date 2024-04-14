@@ -5,3 +5,5 @@
 [WebSite link](hernanRubinstein.github.io)
 
 [Git Mark guide](https://github.github.com/gfm/)
+
+[Static web design](https://jamstack.org/generators/)
