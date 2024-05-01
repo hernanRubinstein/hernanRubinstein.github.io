@@ -9,5 +9,7 @@ All of my solutions can be found here: [LINK](https://github.com/hernanRubinstei
 
 ## Check this crazy beautiful webs:
 [Chen Davidyan repository](https://ChenDavidyan.github.io/)
+
 [Avital Rosner repository](https://avitalrosner.github.io/)
+
 [Elad Wizman repository](https://eladwizman.github.io/)
