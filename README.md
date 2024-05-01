@@ -1,10 +1,13 @@
 # Hernan Rubinstein Git - Python BootCamp
-## I'm a PhD student in the Stelzer lab - focusin' on cell fate determination guided by dynamic signaling
-### My spirit animal - the majestic Kudu
-![](https://i.pinimg.com/736x/f4/70/09/f47009ec278b24707922f57446f38a04.jpg)
+## This is me:
+![](https://i1.rgstatic.net/ii/profile.image/807756512653315-1569595568624_Q512/Hernan-Rubinstein.jpg)
 
-[WebSite link](hernanRubinstein.github.io)
+# My lab website the Stelzer Group: [LINK](https://www.weizmann.ac.il/mcb/Stelzer/home)
 
-[Git Mark guide](https://github.github.com/gfm/)
+# About the course
+All of my solutions can be found here: [LINK](https://github.com/hernanRubinstein/Solutions_Python_BC.git)
 
-[Static web design](https://jamstack.org/generators/)
+## Check this crazy beautiful webs:
+[Chen Davidyan repository](https://ChenDavidyan.github.io/)
+[Avital Rosner repository](https://avitalrosner.github.io/)
+[Elad Wizman repository](https://eladwizman.github.io/)
