@@ -4,8 +4,8 @@
 
 # My lab website the Stelzer Group: [LINK](https://www.weizmann.ac.il/mcb/Stelzer/home)
 # A bit about my research:
-## Characterizing Signaling-dependent Programs During Embryonic Cell-fate Decisions in vivo
-## I am currently a PhD student in the lab, finishing in 1 year :)
+### Characterizing Signaling-dependent Programs During Embryonic Cell-fate Decisions in vivo
+### I am currently a PhD student in the lab, finishing in 1 year :)
 
 # About the course
 All of my solutions can be found here: [LINK](https://github.com/hernanRubinstein/Solutions_Python_BC.git)
